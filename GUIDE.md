@@ -38,7 +38,7 @@
 
 ## Install GETH
 
-Following guide to install GETH
+Following guide to install GETH https://geth.ethereum.org/docs/getting-started/installing-geth
 
 `geth attach http://localhost:8545`
 
